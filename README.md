@@ -183,6 +183,8 @@ Towards Fine-Grained Reasoning for Fake News Detection
 
 
 
-
-
+Adversarial Contrastive Learning for
+Evidence-aware Fake News Detection with
+Graph Neural Networks
+https://arxiv.org/pdf/2210.05498.pdf
 
